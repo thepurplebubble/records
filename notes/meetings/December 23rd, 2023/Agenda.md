@@ -1,0 +1,30 @@
+# Meeting Agenda for December 23rd, 2023 - Steering Committee Meeting
+
+- Branding / CDN Update ~ @samuel
+  - auto polling needs to be turned on
+- DNS things ~ @reesericci (and @Jasper)
+- <https://hackclub.slack.com/archives/C068D2P46TH/p1703205878962979> ~ Thread on naming things
+- Pinned Message / Entry guide on org level contributing
+- Regular meeting schedule
+- SC Roles
+  - Co Chairs ~ @Jasper @reesericci
+  - Secretary / Treasurer ~ @kieran
+  - At Large ~ @samuel @Aram
+- <https://linear.app/purplebubble> Linear ~ @Jasper
+  - Not actually going to use it
+  - Properly setup github projects instead
+- Github Sponsors ~ @Jasper
+- Infra Decisions
+  - Document infra?
+  - Server(s)? (Jasper has homelab, and can do proxmox + identity, DNS, server, etc)
+  - Stack Choices
+    - Website ~ Astro
+  - Populate infra doc so others can see ~ Similar to Nest Canvas (@samuel?)
+    - I don't think I'd be the best to write it up as I'm not too familiar with our current infra
+    - Got it ~ Jasper
+- so can we figure out what we’re actually doing?
+  - Mobile app: native/cross-platform? flutter or rn?
+  - What’s the first thing to do:
+    - Matrix implementation in mobile app?
+    - New protocol? Based off of what, if anything?
+- <https://dev.37signals.com/the-radiating-programmer/> ~ @kieran
