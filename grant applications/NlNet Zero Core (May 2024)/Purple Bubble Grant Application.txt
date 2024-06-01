@@ -1,0 +1,81 @@
+﻿GRANT SUBMITTED ON FRIDAY MAY 31st 2024 at 10:42PM EASTERN TIME. DOCUMENT IS NOW READ ONLY,  CONTACT JASPER@PURPLEBUBBLE.ORG for assistance.
+
+
+
+
+Contact information:
+
+
+Your name (max. 100 characters): 
+Jasper Mayone
+
+
+Email address: 
+team@purplebubble.org
+Phone number: OBSFUCATED (JASPERS CELL USED)
+Organisation (max. 100 characters): Purple Bubble C/O The Hack Foundation
+Country: US
+
+
+General project information
+
+
+Project name (max. 100 characters): Purple Bubble
+Website / wiki: https://purplebubble.org
+
+
+Abstract: Can you explain the whole project and its expected outcome(s).
+Purple Bubble aims to create an open standard for communication that overcomes the limitations of current protocols. Existing standards are either closed source and restrictive or, like the Matrix protocol, open but highly fragmented. Our goal is to develop a more stable and user-friendly protocol that ensures seamless communication with robust encryption. The expected outcome would be a reliable, secure communication standard that can be widely adopted by the general public. 
+
+
+Have you been involved with projects or organizations relevant to this project before? And if so, can you tell us a bit about your contributions?
+Our team includes a member with extensive experience working on the Matrix protocol, contributing to its development and troubleshooting. Another team member has served on the board of several nonprofit organizations, bringing valuable governance and organizational skills to the project.[a][b][c][d][e][f][g]
+
+
+
+
+
+
+Requested support
+
+
+[h][i][j][k]
+Requested Amount (in Euro) (between 5,000 and 50,000)
+35,000 EUR [l]
+
+
+Explain what the requested budget will be used for?
+Does the project have other funding sources, both past and present? (Explain costs for hardware, human labor (including rates used), travel cost to technical meetings, etc.)
+The requested budget of 35,000 EUR will be vital in accelerating the development of the Purple Bubble communication protocol. This funding will be directly invested in hiring two part-time developers/researchers, who will be instrumental in creating and refining our new protocol. We will also use a portion of the grant to cover payroll taxes associated with their salaries. In addition to developer salaries, the grant will cover essential costs like website hosting, and protocol server hosting (once the protocol reaches alpha).  We will also use the funds for technical meetings, travel associated with project collaborations, and any unforeseen development costs that might arise. 
+
+
+Purple Bubble Budget Projection Fiscal Year 2024-26 ~ attached as pdf
+
+
+
+
+Compare your own project with existing or historical efforts. (e.g. what is new, more thorough or otherwise different)
+Purple Bubble differentiates itself from existing protocols like Matrix by addressing key issues of fragmentation and encryption reliability. Unlike Matrix, which often suffers from encryption failures and inconsistent user experiences, Purple Bubble will provide a seamless and unified communication standard with robust, default encryption. Our protocol will scale efficiently for large groups and personal chats, ensuring a smooth experience across various use cases. Additionally, we will focus on interoperability, developing compatibility layers to integrate easily with existing systems. By overcoming these limitations, Purple Bubble aims to deliver a stable, secure, and user-friendly communication protocol.
+
+
+What are significant technical challenges you expect to solve during the project, if any?)
+One significant technical challenge we aim to solve during the Purple Bubble project is designing a robust, user-friendly communication protocol. We will ensure encryption reliability by integrating advanced libraries and automated testing frameworks. To handle large groups (2,000-3,000 users), we will use distributed system techniques and optimize network protocols. Achieving interoperability with existing systems will involve developing compatibility layers and collaborating with other protocol developers. Creating an intuitive user interface will require user-centered design and thorough testing. To attract and retain motivated developers, we will foster a collaborative environment and offer competitive compensation. Ensuring compliance with global privacy and security regulations will involve consulting legal experts and continuous monitoring. Finally, we will promote adoption and build a vibrant community through targeted outreach and active community management. By tackling these challenges, we aim to deliver a technically superior and widely accepted communication protocol.
+
+
+Describe the ecosystem of the project, and how you will engage with relevant actors and promote the outcomes? (E.g. which actors will you involve? Who should run or deploy your solution to make it a success?)
+Our primary target audience is everyday people who desire a solid, user-friendly messaging app but also have concerns about security. These users may not be entirely sure what specific security features they need but have a nagging feeling that they should be using something more secure than current options. While it’s still early to identify exactly who will be our biggest user base, a significant part of our development process will involve pinpointing this demographic and optimizing around their needs to ensure the best possible user experience. We envision that the tech-savvy person in many families or friend groups will likely take the lead in adopting our protocol, running their own servers, and encouraging others to join.
+To support this ecosystem, we will engage various critical actors. Security experts will play a crucial role in continuously assessing and improving the security measures and encryption reliability of our protocol. We will work closely with them through regular audits and collaborative sessions. Distributed infrastructure providers are essential for the scalability and performance of our platform, and we plan to establish partnerships with leading providers in the field. Early adopters and product users will be crucial in testing and refining the protocol through feedback, allowing us to tweak and improve the system before a broader rollout. Through beta programs and user forums, we will harness their experiences to shape the final product. By strategically engaging and promoting our outcomes to these groups, we aim to build a secure, intuitive communication protocol that everyday people can trust and easily adopt.
+
+
+[a]Good. I appreciate the relevance. Can we give solid examples of contributions without being excessively wordy? Saying you were involved is different than contributing.
+[b]Alright, going back to this-solid examples of contributions is better than what you've got currently.
+[c]argh its hard to give specific examples....
+[d]Start with listing the experience and nail down the overlapping skills needed for this.
+[e]@kieran.klukas@gmail.com thoughts on this?
+[f]I think due to time stuff constraints I might just leave it
+[g]it's good feedback tho!
+[h]Developers salaried at 13,700
+[i]Developers not on SC have payroll approved by SC
+[j]Developers on SC who are not co-chairs have payroll approved by co-chairs plus treasurer
+[k]Treasurer and Co-Chairs have payroll approved by a 2/3 majority of the steering committee (minus themselves)
+[l](roughly 37,000 USD)
