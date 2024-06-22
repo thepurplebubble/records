@@ -1,0 +1,31 @@
+﻿To
+	grantapps@futo.org 
+	Cc
+	kieran@purplebubble.orgJasper Mayone 
+	Bcc
+	Purple Bubble Team/Staff 
+	Subject
+	Purple Bubble Grant Inquiry
+	Dear Futo Team,
+
+
+We found Futo from a YouTube video by Lewis Rossmann on your organization as well as your recent sponsorship of Immitch, which then prompted us to look further into who you all are.
+
+
+We love Futo’s goal of putting the ownership of computers back in the hands of users, rather than the computers owning us, and it really aligns with a project that we are working on that we wanted to share with you called Purple Bubble.
+
+
+Purple Bubble, a project under the fiscal sponsorship of The Hack Foundation (who you’ve worked with in the past), was founded by a group of teenagers who want to change the way we think about messaging and communication. For too long, messaging apps have been restricted to work best with their own products and user bases, creating a fragmented ecosystem that alienates users. Our goal is to change that by building a new protocol from the ground up—one that communicates securely and unobtrusively. This open protocol is designed not only for one-on-one communication, but also to scale from small businesses to large companies. 
+
+
+Purple Bubble also aligns with several of The Five Pillars of FUTOey Software!  The Purple Bubble protocol will first and foremost always be end-to-end encrypted, as well as being designed by default for authentication via private/public key pairs. All major purple bubble code is also open source and publicly accessible, as well as our meeting notes and workspace!
+
+
+Currently, we are all volunteering, but we all have jobs or need to get jobs and as a result can’t put as much time into Purple Bubble as we would like. Our goal is to become a fully sufficient organization that can keep developing this protocol and client far into the future while not going broke :) We think that someday we could be a great addition to Futo’s roster of projects but right now we aren’t quite large enough and established enough to ask for that yet. 
+
+
+We would love to sit down and chat about our vision for Purple Bubble, and are very receptive to feedback and advice! Let us know if that’d be something you’re willing to do, we’d be super grateful! 
+
+
+Thank you so much,
+Jasper & Kieran (Founders) and the rest of the Purple Bubble Team
