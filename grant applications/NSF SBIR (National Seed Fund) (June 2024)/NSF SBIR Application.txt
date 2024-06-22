@@ -1,0 +1,111 @@
+﻿GRANT SUBMITTED ON SATURDAY JUNE 22nd 2024 at 09:21 AM EASTERN TIME. DOCUMENT IS NOW READ ONLY,  CONTACT JASPER@PURPLEBUBBLE.ORG for assistance.
+
+
+Doc imported to recs repo on 6/22/2024
+
+
+~~~~ 
+
+
+Email: 
+jasper@purplebubble.org
+
+
+First Name: 
+Jasper
+
+
+Last Name: 
+Mayone
+
+
+Phone Number (10 digits, no special characters):
+8022793128
+
+
+Company Name:
+Purple Bubble C/O The Hack Foundation
+
+
+Company ZIP Code:
+90069
+
+
+Company State:
+CA
+
+
+Company website (if applicable):
+https://purplebubble.org/
+
+
+Please pick the SBIR/STTR topic that best fits your project's technology area
+  
+
+
+
+
+
+________________
+
+
+Is this Project Pitch for a technology or project concept that was previously submitted as a full proposal by your company to the NSF SBIR/STTR Phase I Program – and was not awarded?
+* Yes 
+* No
+
+
+Has your company received a prior NSF SBIR or STTR award?
+* Yes
+* No
+
+
+Does your company currently have a full Phase I SBIR or STTR proposal under review at NSF?
+* Yes
+* No
+
+
+Briefly Describe the Technology Innovation: Up to 500 words describing the technical innovation that would be the focus of a Phase I project, including a sentence discussing the origins of the innovation as well as an explanation as to why it meets the program’s mandate to focus on supporting research and development (R&D) of unproven, high-impact innovations. This section should not just discuss the features and benefits of your solution, it must also clearly explain the uniqueness, innovation and/or novelty in how your product or service is designed and functions.
+ 
+
+
+The decentralized secure messaging protocol addresses the pressing need for enhanced privacy and security in digital communications, moving away from vulnerable centralized systems. Traditional messaging platforms risk data breaches, censorship, and surveillance due to their reliance on central servers. This protocol innovates by using a decentralized architecture, ensuring robust security and user anonymity.
+Originating from the necessity to mitigate the increasing cyber threats and privacy concerns, the protocol’s uniqueness lies in its design and functionality. It employs a mesh network of REST API servers, distributing control and eliminating single points of failure. This architecture ensures that even if some servers are compromised, the network remains operational and resilient.
+A standout feature is the use of separate transmission (TX) and reception (RX) servers. This separation protects user anonymity by preventing the correlation of transmission and reception paths. Moreover, client messages are broadcasted to locate recipients efficiently, ensuring reliable message delivery even when the exact server location is initially unknown.
+The protocol’s approach to message retention and retrieval further distinguishes it. Undelivered messages are stored with a seven-day expiration, allowing clients to retrieve them later, ensuring message delivery despite temporary unavailability of recipients. RSA 2048 encryption secures messages, with signature verification preventing unauthorized access.
+To maintain network integrity, the protocol includes mechanisms to detect and manage misbehaving servers, such as a reputation system and periodic audits. Decisions about server behavior are made through a quorum-based consensus, ensuring fairness and reliability.
+In summary, this decentralized secure messaging protocol uniquely combines a resilient mesh network, robust encryption, and innovative anonymity measures, addressing critical privacy and security challenges in digital communications. This innovation aligns perfectly with the program’s mandate to support high-impact, unproven research and development efforts, paving the way for a new era of secure messaging.
+
+
+
+
+
+
+Briefly Describe the Technical Objectives and Challenges: Up to 500 words describing the R&D work to be done in a Phase I project, including the highest-risk research challenges to be investigated in a Phase I effort that are specific to your innovation. This section should also include a brief description of your unique scientific approach to solving those challenges and how this would lead to a sustainable competitive advantage for the company. Please note that challenges common to an industry or market are not responsive in this section.
+
+
+One significant technical challenge we aim to solve during the Purple Bubble project is designing a robust, user-friendly communication protocol. We will ensure encryption reliability by integrating advanced libraries and automated testing frameworks. To handle large groups (2,000-3,000 users), we will use distributed system techniques and optimize network protocols. Achieving interoperability with existing systems will involve developing compatibility layers and collaborating with other protocol developers. Creating an intuitive user interface will require user-centered design and thorough testing. To attract and retain motivated developers, we will foster a collaborative environment and offer competitive compensation. Ensuring compliance with global privacy and security regulations will involve consulting legal experts and continuous monitoring. Finally, we will promote adoption and build a vibrant community through targeted outreach and active community management. By tackling these challenges, we aim to deliver a technically superior and widely accepted communication protocol.
+
+
+
+
+
+
+Briefly Describe the Market Opportunity: Up to 250 words describing the customer profile and pain point(s) that will be the near-term commercial focus related to this technical project.
+
+
+The market opportunity for Purple Bubble lies in meeting the critical need for secure, reliable, and user-friendly communication, an area where existing protocols often fall short. Our primary customers include everyday individuals and small to medium-sized organizations increasingly concerned about privacy and security. These users might not have deep technical expertise but recognize the importance of secure communication and are frustrated with the fragmentation and encryption issues in current solutions like the Matrix protocol.
+A significant pain point is the inconsistency and unreliability of encryption in existing communication platforms, often leading to security breaches and compromised data. Users want a communication tool that provides robust, default encryption without requiring extensive configuration or technical know-how. Additionally, the fragmented nature of current protocols results in a disjointed user experience, causing frustration and inefficiencies.
+Organizations, in particular, need a scalable solution that seamlessly handles both large group communications and personal chats. They also require interoperability with existing systems to ensure a smooth transition and integration without disrupting their current operations.
+Purple Bubble addresses these pain points by offering a unified communication standard that integrates advanced encryption libraries and automated testing frameworks to ensure reliability. Our protocol’s focus on user-centered design makes it accessible to non-technical users, while its scalability and interoperability meet the needs of organizations. By solving these critical issues, Purple Bubble is poised to capture a significant market share, providing a superior alternative to existing communication protocols.
+
+
+Briefly Describe the Company and Team : Up to 250 words describing the background and current status of the submitting small business, including team members related to the technical and/or commercial efforts discussed in this Project Pitch.
+
+
+Purple Bubble, a project under the fiscal sponsor of The Hack Foundation, was founded by a group of teenagers who want to change the way we think about messaging and communication. For too long, messaging apps have been restricted to work best with their own products and user bases, creating a fragmented ecosystem that alienates users. Our goal is to change that by building a new protocol from the ground up—one that communicates securely and unobtrusively. This open protocol is designed not only for one-on-one communication, but also to scale from small businesses to large companies. 
+Although we may lack the experience of established companies, we consider this our superpower. Approaching this challenge with fresh perspectives, starry eyes, and unwavering optimism, we passionately aim to transform a small slice of the world, one seamless communication at a time.
+
+
+
+
+How did you first hear about our program?
